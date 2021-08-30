@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SloumaMz
+- 👋 Hi, I’m @salim-mz
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Web Scraping
 - 📫 How to reach me : www.linkedin.com/in/salim-mzoughi
